@@ -1,6 +1,8 @@
+{% comment %}
 layout: page
 title: "test"
 permalink: /blog-github/test/
+{% endcomment %}
 
 ---
 __Advertisement :)__
