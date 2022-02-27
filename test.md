@@ -1,3 +1,7 @@
+layout: page
+title: "test"
+permalink: /blog-github/test/
+
 ---
 __Advertisement :)__
 
