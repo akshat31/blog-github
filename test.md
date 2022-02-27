@@ -3,6 +3,8 @@ layout: page
 title: "test"
 permalink: /blog-github/test/
 {% endcomment %}
+github:
+  is_project_page: false
 
 ---
 __Advertisement :)__
